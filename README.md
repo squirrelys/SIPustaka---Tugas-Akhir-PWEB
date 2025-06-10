@@ -36,8 +36,6 @@ Artikel Pendidikan
 Melihat Artikel
 Menambah Artikel
 Mengubah Artikel
-Data Anggota
 Melihat Data Anggota
-Mengubah Data Anggota
 Manage Peminjaman dan Pengembalian Buku
 Log Out
